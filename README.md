@@ -11,6 +11,6 @@ The purpose of this project was to learn the swift programming language and how 
 * SwiftUI
 * Xcode
 * Object oriented programming
-* simulators
+* Simulators
   
 
